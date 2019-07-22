@@ -64,5 +64,6 @@ h4 {
 
 .outside {
   background-image: url(images/white-wood.jpg);
+  background-size: cover;
   background: linear-gradient(to right, #FFF, #000)
 }
